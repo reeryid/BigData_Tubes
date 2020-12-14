@@ -1,0 +1,824 @@
+Learn more about 5G visit verizonwireless.com/5g
+
+To order the 5G moto mod, visit verizonwireless.com/5g/phones/
+
+To learn more about Verizon’s 5G technology, visit verizonwireless.com/5g. For more information about Verizon’s 5G Ultra Wideband coverage area, visit vzw.com/support/5g-moto-mod-faqs.
+
+Learn more about 5G visit verizonwireless.com/5g
+
+To order the 5G moto mod, visit verizonwireless.com/5g/phones/
+
+To learn more about Verizon’s 5G technology, visit verizonwireless.com/5g. For more information about Verizon’s 5G Ultra Wideband coverage area, visit vzw.com/support/5g-moto-mod-faqs.
+
+Learn more about 5G visit verizonwireless.com/5g
+
+To order the 5G moto mod, visit verizonwireless.com/5g/phones/
+
+To learn more about Verizon’s 5G technology, visit verizonwireless.com/5g. For more information about Verizon’s 5G Ultra Wideband coverage area, visit vzw.com/support/5g-moto-mod-faqs.
+
+In addition to faster data speeds and low latency, the advancement of 5G lays the foundation for more advanced uses which allows faster downloads for videos, games, and music. One of the largest industries that are going to be positively impacted is gaming which is projected to exceed US$1 billion in revenue this year. With the use of 5G technology, gaming should be seamless, allowing users to play on any devices with no latency issues.
+
+Despite the beliefs that 5G will revolutionize technology with faster downloads, faster uploads, and low latency, Forest Interactive CEO Johary Mustapha noted that game enthusiast should also consider its practicality which could pose a few potential challenges to the industry.
+
+“Gamers are now putting high hopes in the advancement of this new technology. But it could be a misleading hype in terms of its practical use,” said Johary. “The demand is there, but the real question here is whether or not the supply is ready to support the demand. For example, even if 5G operates a bigger bandwidth and can accommodate a higher capacity than that of 4G, the network speed would be a major issue as speeds might be degraded to that of 4G if there’s an influx in the number of users at the same area at the same time.”
+
+“5G works as an enabler or a gateway to a better AR/VR gaming experience. Once widely available, it will take graphic-intensive games to new heights. In the esports arena, this particularly might appeal to both casual and professional AR/VR gamers as 5G enables an immersive gaming experience. Keeping that in mind, having 5G technology that significantly improves latency problems will keep away gamers from the last thing they would want, which is lag.”
+
+This standard is designed to be much faster than current 4G LTE technology. It’s not just about speeding up smartphone internet connections, though. It’s about enabling faster wireless internet everywhere for everything from connected cars to smarthome and Internet of Things (IoT) devices.
+
+In the future, your smartphone and all the other devices you have with cellular connectivity will use 5G instead of the 4G LTE technology they likely use today.
+
+Tech companies are promising a lot from 5G. While 4G tops out at a theoretical 100 megabits per second (Mbps), 5G tops out at 10 gigabits per second (Gbps). That means 5G is a hundred times faster than the current 4G technology—at its theoretical maximum speed, anyway.
+
+5G takes advantage of a lot of technology in an attempt to achieve these fast speeds. There isn’t just one innovation at play. The IEEE Spectrum magazine does a good job of explaining a lot of the technical details in more depth, but here’s a quick summary.
+
+These base stations also use “massive MIMO”. MIMO stands for “multiple-input multiple-output.” You might even have a home wireless router with MIMO technology, which means it has multiple antennas it can use to talk to multiple different wireless devices at once rather than quickly switching between them. Massive MIMO will use dozens of antennas on a single base station. They will also take advantage of beamforming to better direct those signals, directing the wireless signal in a beam pointing at the device and reducing interference for other devices.
+
+5G base stations will also run at full duplex, which means they can transmit and receive at the same time, on the same frequency. Today, they have to switch between transmitting and listening modes, slowing things down. That’s just a snapshot of some of the technology being incorporated to make 5G so fast.
+
+Update for 2020: Verizon, AT&T, T-Mobile, and Sprint have all began rolling out 5G in parts of the USA. For example, T-Mobile has rolled out a nationwide network, although it’s using low-band spectrum that isn’t as fast as the speedy millimeter wave technology. AT&T has launched 5G in some cities, too. The networks don’t matter too much at the moment, however, as most smartphones—including the latest iPhones—don’t support 5G. We still recommend against buying a current 5G phone. Both the networks and the phone hardware need more development time.
+
+AT&T promises to begin rolling out 5G for phones in late 2018, but real, widespread 5G deployment likely won’t start until 2019. T-Mobile has promised to begin the rollout in 2019, with “nationwide coverage” in 2020. Sprint announced it will start deploying 5G in late 2019. With schedules like these, 5G technology likely won’t be widespread until 2020, at the absolute earliest.
+
+This standard is designed to be much faster than current 4G LTE technology. It’s not just about speeding up smartphone internet connections, though. It’s about enabling faster wireless internet everywhere for everything from connected cars to smarthome and Internet of Things (IoT) devices.
+
+In the future, your smartphone and all the other devices you have with cellular connectivity will use 5G instead of the 4G LTE technology they likely use today.
+
+Tech companies are promising a lot from 5G. While 4G tops out at a theoretical 100 megabits per second (Mbps), 5G tops out at 10 gigabits per second (Gbps). That means 5G is a hundred times faster than the current 4G technology—at its theoretical maximum speed, anyway.
+
+5G takes advantage of a lot of technology in an attempt to achieve these fast speeds. There isn’t just one innovation at play. The IEEE Spectrum magazine does a good job of explaining a lot of the technical details in more depth, but here’s a quick summary.
+
+These base stations  also use “massive MIMO”. MIMO stands for “multiple-input multiple-output.” You might even have a home wireless router with MIMO technology, which means it has multiple antennas it can use to talk to multiple different wireless devices at once rather than quickly switching between them. Massive MIMO will use dozens of antennas on a single base station. They will also take advantage of beamforming to better direct those signals, directing the wireless signal in a beam pointing at the device and reducing interference for other devices.
+
+5G base stations will also run at full duplex, which means they can transmit and receive at the same time, on the same frequency. Today, they have to switch between transmitting and listening modes, slowing things down. That’s just a snapshot of some of the technology being incorporated to make 5G so fast.
+
+AT&T promises to begin rolling out 5G for phones in late 2018, but real, widespread 5G deployment likely won’t start until 2019. T-Mobile has promised to begin the rollout in 2019, with “nationwide coverage” in 2020. Sprint announced it will start deploying 5G in late 2019. With schedules like these, 5G technology likely won’t be widespread until 2020, at the absolute earliest.
+
+Today we enjoy the benefits of on-the-go mobile data thanks to 4G wireless technology. 4G comes equipped with an alphabet soup of features like multiple-input multiple-output (MIMO), further enhanced intercell interference coordination (FeICIC), co-ordinated multipoint (CoMP), beamforming, enhanced multimedia broadcast multicast system (eMBMS), license assisted access (LAA), higher order modulation with 256QAM, carrier aggregation (CA), dual connectivity (DC) and many more all supported in frequency and time division duplex (FDD and TDD) bands.
+
+But all that is a prologue to the rollout of the fifth generation of wireless technology, better known as 5G. Obviously, 5G should be better than its predecessor, right? But how? This blog describes eight aspects that 5G will outperform 4G.
+
+5G is the newest version of mobile technology — 5G stands for 5th generation — and while it will transform the way we use our phones, it also has the potential to transform many other aspects of everyday life. Here’s a brief introduction to the benefits of 5G, and some of technologies we might see as a result.
+
+With every new generation of mobile technology, the first thing that catches people’s attention is always speed. With 5G, speed is taking a huge leap upwards. With 5G, we’re going to see speeds of up to 10 Gbps. For the first time, mobile network speeds are matching the speeds of business and area networks.
+
+Just as we can’t fully anticipate all the ways that 5G technology could improve our lives, we also can’t fully understand the risks. As we put more of our data out there, we become more exposed. If 5G networks, and the devices that run on them, are not secure, the consequences could be devastating. To see all the benefits of 5G, we must make sure that these innovative new devices and technologies have security built in as an integral part. There’s no doubt that the 5G world will be exciting. Let’s make sure that it’s exciting for the right reasons.
+
+PCMag.com is a leading authority on technology, delivering Labs-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.
+
+The G in 5G means it's a generation of wireless technology. While most generations have technically been defined by their data transmission speeds, each has also been marked by a break in encoding methods, or "air interfaces," which make it incompatible with the previous generation.
+
+
+							A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.© Copyright 2020 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.
+						
+
+
+							A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.© Copyright 2020 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.
+						
+
+There is one major drawback to millimeter waves, though—they can’t easily travel through buildings or obstacles and they can be absorbed by foliage and rain. That’s why 5G networks will likely augment traditional cellular towers with another new technology, called small cells.
+
+In addition to broadcasting over millimeter waves, 5G base stations will also have many more antennas than the base stations of today’s cellular networks—to take advantage of another new technology: massive MIMO. 
+
+This technology is called massive MIMO. It all starts with MIMO, which stands for multiple-input multiple-output. MIMO describes wireless systems that use two or more transmitters and receivers to send and receive more data at once. Massive MIMO takes this concept to a new level by featuring dozens of antennas on a single array.
+
+Beamforming is a traffic-signaling system for cellular base stations that identifies the most efficient data-delivery route to a particular user, and it reduces interference for nearby users in the process. Depending on the situation and the technology, there are several ways for 5G networks to implement it. 
+
+Besides boosting data rates by broadcasting over millimeter waves and beefing up spectrum efficiency with massive MIMO, wireless engineers are also trying to achieve the high throughput and low latency required for 5G through a technology called full duplex, which modifies the way antennas deliver and receive data.
+
+With 5G, a transceiver will be able to transmit and receive data at the same time, on the same frequency. This technology is known as full duplex, and it could double the capacity of wireless networks at their most fundamental physical layer: Picture two people talking at the same time but still able to understand one another—which means their conversation could take half as long and their next discussion could start sooner.
+
+Some militaries already use full duplex technology that relies on bulky equipment. To achieve full duplex in personal devices, researchers must design a circuit that can route incoming and outgoing signals so they don’t collide while an antenna is transmitting and receiving data at the same time. 
+
+One drawback to full duplex is that it also creates more signal interference, through a pesky echo. When a transmitter emits a signal, that signal is much closer to the device’s antenna and therefore more powerful than any signal it receives. Expecting an antenna to both speak and listen at the same time is possible only with special echo-canceling technology.
+
+© Copyright 2019 IEEE — All rights reserved. Use of this Web site signifies your agreement to the IEEE Terms and Conditions.A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+[Shanghai, China, Nov 8, 2016] On November 4, 2016, China Mobile Shanghai Branch and Huawei jointly deployed the world's first wideband Massive MIMO site. This is another key milestone delivered after the world's first Massive MIMO solution was launched in Shanghai in September 2015. An achievement marking a great leap forward for large-scale commercial Massive MIMO technology and the beginning of a planned series of events outlined in the timetable for 5G large-bandwidth evolution. This solution has significantly improved single site capability in the 4G era indicated by a 5-fold increase, achieving 5-6 Giga capability of a single site.
+
+The demand is there, and most of the technology works. Meanwhile, the hype is unreal. Time for reporting closer to the truth.
+
+It’s all about 5G. No matter where you go or who you’re talking to, 5G is at the center of conversations about exciting new technology. While recent announcements from Mobile World Congress indicate that 5G is already here, it’s not. But we’re getting very close.
+
+There’s a lot left to be defined when it comes to 5G, but one thing is certain: Sub-6 GHz spectrum is still very important, and mmWave frequencies will be used to supplement sub-6 GHz technology.
+
+Verizon secured a license for the 28-GHz band from XO Communications last year, and has been vocal about its desire to use this frequency for its initial deployment. Despite not having a fully standardized version of the technology to roll out for this testing, Verizon is making a bet that the hardware they deploy now will have the capability to run whatever specification is eventually released through a software update in the future.2 Other U.S. carriers have agreed to use the 28-GHz band, and both AT&T; and T-Mobile indicated that they will conduct more research on 28-GHz-based technologies and partner with equipment providers for additional field trials.
+
+At the IEEE Wireless Communications and Networking Conference (WCNC) in San Francisco, National Instruments (NI) demonstrated a real-time working prototype of the 5GTF.  While not the first prototype of the specification, it was notable for several reasons, one of which being that it was the first public demonstration of the technology in action.
+
+Verizon is aware that it will push out mmWave technology pre-standardization. The question looming over V5G is whether it will comply with 3GPP 5G standards or not; hence, the risk of deploying mmWave technology before defining the standards. If Verizon’s gamble pays off, Verizon will have a significant head start in the race to 5G. If not, it will need to replace a lot of outdated hardware.
+
+Frequency selection doesn’t have a strict deadline, but operators are pushing technology forward to get 28-GHz hardware deployed in 2017 field trials. By the second quarter of 2018, South Korea will have demonstrated its 5G technology preview. The full standardization process will not be complete yet, but a clearer picture of what 5G is will begin to emerge. The race to define 5G may be ending, but the process to design and deploy 5G technology is just beginning.
+
+This is why Intel’s 5G modem stands out: The modem’s baseband chip pairs with a new 5G transceiver that enables both sub-6 Ghz and mmWave capabilities. This powerful combination incorporates key 3GPP 5G NR (new radio) technology – including low latency frame structures, advanced channel coding and massive MIMO – to deliver faster connectivity and ultra-responsiveness. Our goal is to support both early trials and to lay a foundation enabling accelerated development of products that will support the 3GPP NR specification and help drive global adoption of the 3GPP 5G standard.
+
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers’ greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash the potential of data to transform business and society for the better. To learn more about Intel’s innovations, go to newsroom.intel.com and intel.com.
+
+This is why Intel’s 5G modem stands out: The modem’s baseband chip pairs with a new 5G transceiver that enables both sub-6 Ghz and mmWave capabilities. This powerful combination incorporates key 3GPP 5G NR (new radio) technology – including low latency frame structures, advanced channel coding and massive MIMO – to deliver faster connectivity and ultra-responsiveness. Our goal is to support both early trials and to lay a foundation enabling accelerated development of products that will support the 3GPP NR specification and help drive global adoption of the 3GPP 5G standard.
+
+About Intel
+Intel (NASDAQ: INTC) expands the boundaries of technology to make the most amazing experiences possible. Information about Intel can be found at newsroom.intel.com and intel.com.
+
+C-V2X is a wireless communication technology that can “talk” to and “listen” for similarly equipped vehicles, people and traffic management infrastructure such as traffic lights to relay important information and help make city mobility safer and less congested. Planned alongside the rapidly building 5G cellular network, C-V2X enables direct communication between the connected devices, meaning a signal doesn’t need to first travel to a cellular tower, allowing vehicles to quickly send and receive information. Ultimately, it lets drivers know what’s ahead of them even before they have to encounter it.
+
+Road signs could provide advance warning of recent accidents or provide more context regarding road construction, giving drivers the opportunity to reroute or more safely move through work zones. Further out, cities could even use this technology to enable smart vehicles to “talk” to smart traffic management systems to create better flowing transportation systems.
+
+Our move to deploy this technology builds on our prior commitment to equip every model we release in the United States with conventional cellular connectivity by the end of 2019.
+
+While these vehicles will be fully capable of operating without C-V2X, the technology could add to its comprehensive view from the LiDAR, radar and camera sensors. For instance, if emergency vehicles were equipped with C-V2X transmitters, they could notify self-driving vehicles that may be on their route so the vehicles pull over or reroute in plenty of time. Self-driving vehicles could even get real-time updates on road conditions that affect their routes.
+
+The demand is there, and most of the technology works. Meanwhile, the hype is unreal. Time for reporting closer to the truth.
+
+The demand is there, and most of the technology works. Meanwhile, the hype is unreal. Time for reporting closer to the truth.
+
+The demand is there, and most of the technology works. Meanwhile, the hype is unreal. Time for reporting closer to the truth.
+
+PCMag.com is a leading authority on technology, delivering Labs-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.
+
+This is the first time we've actually been able to see and test commercial LAA in the US. The technology, which we've heard a lot about for a year now, pipes 4G LTE signals over unused 5GHz Wi-Fi channels to widen a carrier's available bandwidth. For carriers other than Sprint, LAA will be critical to achieving gigabit LTE speeds, because they don't have enough contiguous licensed spectrum to achieve those speeds.
+
+4th April: Left the West Loop after a day generally spent without 5G. The millimeter wave technology used is quite reliant on line of sight, thus difficult  to find, but we’ll keep trying.
+
+ICT (Information Communications Technology) has made a significant progress in these last 10 years.  10 years is the usual time it takes for developing a new wireless technology, whose whole life cycle is around 30 years, 10 of development and 20 in operation.
+
+Home | Contact & Support |  Accessibility | Nondiscrimination Policy | Privacy & Opting Out of Cookies
+© Copyright 2019 IEEE – All rights reserved. Use of this website signifies your agreement to the IEEE Terms and Conditions.
+A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+That is an extreme statement to get people to wake up to the realities of the hype. Before I continue, please note that I’m a huge advocate for the evolution of our mobile infrastructure. We’re moving to a world where everything and everyone is “untethered.” But, with +30 years of designing, building, deploying, and operating networks, I understand the hard realities of expectations matching realities. Many of the people who are talking about the benefits of 5G have never done the hard work of deploying 3G or 4G networks. They don’t understand the complexities of RF planning. They have not been on drive test and network optimization exercise working against the clock to get a section of the city ready for service. 5G is going to give the industry options, but it is not a “plug & play” technology. It is not a technology that is going to be deployed everywhere. It is not a technology that is going to save telecommunications companies. The reality is that it will be another evolution, another tool, and an important part of connecting people and things.
+
+The articles in the press are leading people to think there is some sort of magic technology wand that will be waved and “5G will be wonderful.” The 5G realities are different. The benefits of 5G are going to be huge, but gaining those benefits require diligent engineering. Network Architect will rethink how we build the RAN, peering at more IXPs. Radio planning architects to be creative in the new use of “5G New Radio.” Facilities engineers will be doing the hard work to find space for new towers, mini-datacenters (for the cRAN and vRAN equipment), and other equipment. EPC Core architects in the Mobile Operators will be re-tooling for a world of virtualization with SDN, NFV, and other ways to save cost, power, cooling, and (most important) space.
+
+In connection with RAN #69 in Sep. 2015, 3GPP held a workshop in Phoenix, USA in order to inform 3GPP about the ITU-R IMT-2020 plans and to share the visions and priorities of the involved companies regarding the next generation radio technology/ies. The chairman's summary (RWS-150073) formulated 3 next steps:
+
+At RAN #71 in March 2016, 3GPP started a Rel-14 study item (FS_NR_newRAT, RP-170379) "Study on New Radio (NR) Access Technology" with the goal to identify and develop the technology components to meet the broad range of use cases (including enhanced mobile broadband, massive MTC, critical MTC) and the additional requirements defined in 3GPP TR 38.913. This study completed at RAN #75 in March 17 with the Rel-14 3GPP TR 38.912 which is a collection of features for the new radio access technologies together with the studies of their feasibility and their capabilities.
+
+Note: The characteristics templates give a good overview about the considered technology.
+
+Learn more about 5G visit verizonwireless.com/5g
+
+Starting today, consumers and businesses have a 5G network and a 5G-enabled smartphone that makes real-time a reality. Verizon’s 5G Ultra Wideband technology uses the global standard and new device hardware to deliver advanced capabilities to customers in real-time. While select areas of Chicago and Minneapolis will be the first to experience Verizon’s 5G Ultra Wideband mobility service, Verizon announced plans in February to launch its 5G service in more than 30 U.S. cities in 2019.
+
+Early customers in Chicago and Minneapolis should expect typical download speeds of 450 Mbps, with peak speeds of nearly 1 Gbps, and latency less than 30 milliseconds. 5G is a new and rapidly evolving technology and Verizon expects regular improvement in 5G Ultra Wideband speed, latency and overall network performance as Verizon engineers, working with a number of technology partners, continue to upgrade the network. Customers can expect to see regular software updates pushed to their devices and see network advancements throughout the rest of the year.
+
+To order the 5G moto mod, visit verizonwireless.com/5g/phones/
+
+To learn more about Verizon’s 5G technology, visit verizonwireless.com/5g. For more information about Verizon’s 5G Ultra Wideband coverage area, visit vzw.com/support/5g-moto-mod-faqs.
+
+Verizon is a global leader delivering innovative communications and technology solutions that improve the way our customers live, work and play.
+
+While analysts insist the future for 5G remains bright despite the near-term delays, the much-awaited positive impact on the gaming industry could be far from reality.
+
+KUALA LUMPUR – While the impact of the current global crisis and economic uncertainty is undeniable, industry experts believe that global adoption of the next-gen network remains strong with more than a billion global 5G connections by 2025, according to the updated global forecast report by the GSMA Intelligence.
+
+In addition to faster data speeds and low latency, the advancement of 5G lays the foundation for more advanced uses which allows faster downloads for videos, games, and music. One of the largest industries that are going to be positively impacted is gaming which is projected to exceed US$1 billion in revenue this year. With the use of 5G technology, gaming should be seamless, allowing users to play on any devices with no latency issues.
+
+Despite the beliefs that 5G will revolutionize technology with faster downloads, faster uploads, and low latency, Forest Interactive CEO Johary Mustapha noted that game enthusiast should also consider its practicality which could pose a few potential challenges to the industry.
+
+“Gamers are now putting high hopes in the advancement of this new technology. But it could be a misleading hype in terms of its practical use,” said Johary. “The demand is there, but the real question here is whether or not the supply is ready to support the demand. For example, even if 5G operates a bigger bandwidth and can accommodate a higher capacity than that of 4G, the network speed would be a major issue as speeds might be degraded to that of 4G if there’s an influx in the number of users at the same area at the same time.”
+
+“In my honest opinion, a true 4G experience should already be sufficient to give gamers a seamless gaming experience. The most important question we have to ponder on is how 5G can provide what we want and truly solve the current problems, like playing Mobile Games without hiccups in an enclosed area,” he added.
+
+On the other hand, the CEO inferred that 5G would unlock the future reality of Augmented Reality (AR) and Virtual Reality (VR) in the gaming industry. The speed and latency of 5G enables the game graphic to be seamless, allowing fully immersive gaming experience with higher resolutions than ever before.
+
+“5G works as an enabler or a gateway to a better AR/VR gaming experience. Once widely available, it will take graphic-intensive games to new heights. In the esports arena, this particularly might appeal to both casual and professional AR/VR gamers as 5G enables an immersive gaming experience. Keeping that in mind, having 5G technology that significantly improves latency problems will keep away gamers from the last thing they would want, which is lag.”
+
+Meanwhile, Malaysia is expecting a delay in the country’s 5G deployment, which was initially scheduled to be ready by the third quarter of this year. Commenting on 5G-readiness, Communications and Multimedia Minister Datuk Saifuddin Abdullah said in a statement: “the spectrum allocation strategy will be improved to ensure optimum usage.”
+
+Earlier this year, the government has allocated RM50 million in grants for 5G ecosystem development which was announced during the Budget 2020 presentation. The grant aims to stimulate adoption of 5G use cases across various industries including automotive, manufacturing, public safety, education, agriculture, tourism, entertainment and media.
+
+Once again, you can’t escape the 5G hype at CES. It’s been building since CES 2018. Everyone—from Samsung and Intel to cellular carriers and smartphone companies—wants you to know how amazing 5G will be. Samsung called it “wireless fiber”, promising super-fast low latency internet everywhere. 5G is supposed to be faster than a typical home cable internet connection today…and it’s wireless, too.
+
+5G is the industry standard that will supersede the current widespread 4G LTE standard, just as 4G supplanted 3G. 5G just stands for “fifth generation”—it’s the fifth generation of this standard.
+
+This standard is designed to be much faster than current 4G LTE technology. It’s not just about speeding up smartphone internet connections, though. It’s about enabling faster wireless internet everywhere for everything from connected cars to smarthome and Internet of Things (IoT) devices.
+
+In the future, your smartphone and all the other devices you have with cellular connectivity will use 5G instead of the 4G LTE technology they likely use today.
+
+Tech companies are promising a lot from 5G. While 4G tops out at a theoretical 100 megabits per second (Mbps), 5G tops out at 10 gigabits per second (Gbps). That means 5G is a hundred times faster than the current 4G technology—at its theoretical maximum speed, anyway.
+
+For example, the Consumer Technology Association pointed out that, at this speed, you could download a two-hour movie in just 3.6 seconds on 5G, versus 6 minutes on 4G or 26 hours on 3G.
+
+It’s not just throughput, either. 5G promises to significantly reduce latency, which means faster load times and improved responsiveness when doing just about anything on the internet. Specifically, the specification promises a maximum latency of 4ms on 5G versus 20ms on 4G LTE today.
+
+At these speeds, 5G beats current home cable internet connections and is more comparable to fiber. Landline internet companies like Comcast, Cox, and others may face serious competition—especially when they’re the only option for speedy home internet in a certain area. Wireless carriers can deliver an alternative without laying down physical wires to every home.
+
+Presenters wanted us to think of 5G as enabling super-fast, practically unlimited internet everywhere, and to all devices. Of course, in the real world, internet service providers impose data caps. For example, even if your wireless carrier gave you a 100 GB data cap—which is much larger than most plans today—you could blow through that in a minute and 20 seconds at the maximum theoretical speed of 10 Gbps. It’s unclear what caps carriers will ultimately impose and how much that will affect usage.
+
+5G takes advantage of a lot of technology in an attempt to achieve these fast speeds. There isn’t just one innovation at play. The IEEE Spectrum magazine does a good job of explaining a lot of the technical details in more depth, but here’s a quick summary.
+
+The new standard will use a whole new band of radio spectrum from 4G. 5G will take advantage of “millimeter waves”, broadcast at frequencies between 30 and 300 GHz versus the bands below 6 GHz that were used in the past. These were previously only used for communication between satellites and radar systems. But millimeter waves can’t easily travel through buildings or other solid objects, so 5G will also take advantage of “small cells”—smaller miniature based stations that can be placed about every 250 meters throughout dense urban areas. These would provide much better coverage in such locations.
+
+These base stations also use “massive MIMO”. MIMO stands for “multiple-input multiple-output.” You might even have a home wireless router with MIMO technology, which means it has multiple antennas it can use to talk to multiple different wireless devices at once rather than quickly switching between them. Massive MIMO will use dozens of antennas on a single base station. They will also take advantage of beamforming to better direct those signals, directing the wireless signal in a beam pointing at the device and reducing interference for other devices.
+
+5G base stations will also run at full duplex, which means they can transmit and receive at the same time, on the same frequency. Today, they have to switch between transmitting and listening modes, slowing things down. That’s just a snapshot of some of the technology being incorporated to make 5G so fast.
+
+And yes, the available evidence points toward 5G being safe.
+
+RELATED: How Worried Should You Be About the Health Risks of 5G?
+
+Update for 2020: Verizon, AT&T, T-Mobile, and Sprint have all began rolling out 5G in parts of the USA. For example, T-Mobile has rolled out a nationwide network, although it’s using low-band spectrum that isn’t as fast as the speedy millimeter wave technology. AT&T has launched 5G in some cities, too. The networks don’t matter too much at the moment, however, as most smartphones—including the latest iPhones—don’t support 5G. We still recommend against buying a current 5G phone. Both the networks and the phone hardware need more development time.
+
+In the USA, Verizon will begin rolling out a non-standard version of 5G in the second half of 2018, using it for home internet access in five cities. Cell phones that support 5G wouldn’t be able to connect, but it won’t be for phones, anyway—just as a way to offer speedy home internet service, wirelessly.
+
+AT&T promises to begin rolling out 5G for phones in late 2018, but real, widespread 5G deployment likely won’t start until 2019. T-Mobile has promised to begin the rollout in 2019, with “nationwide coverage” in 2020. Sprint announced it will start deploying 5G in late 2019. With schedules like these, 5G technology likely won’t be widespread until 2020, at the absolute earliest.
+
+Qualcomm, which makes the chips used in many Android phones, has promised 5G phones for 2019. And yes, you’ll need to get a new phone and other cellular devices with support for 5G, just as cellular carriers need to replace their hardware to support 5G.
+
+You’ll be hearing a lot more about 5G in the next few years as the rollout actually begins, but the hype machine is already starting up. Take the maximum theoretical speeds with a grain of salt and be prepared to wait a few years for widespread coverage, but be excited—wireless internet is about to get a lot faster.
+
+You couldn’t escape the 5G hype at CES 2018 and the same is holding true for 2019. Everyone—from Samsung and Intel to cellular carriers and smartphone companies—wants you to know how amazing 5G will be. Samsung called it “wireless fiber”, promising super-fast low latency internet everywhere. 5G is supposed to be faster than a typical home cable internet connection today…and it’s wireless, too.
+
+5G is the industry standard that will supersede the current widespread 4G LTE standard, just as 4G supplanted 3G. 5G just stands for “fifth generation”—it’s the fifth generation of this standard.
+
+This standard is designed to be much faster than current 4G LTE technology. It’s not just about speeding up smartphone internet connections, though. It’s about enabling faster wireless internet everywhere for everything from connected cars to smarthome and Internet of Things (IoT) devices.
+
+In the future, your smartphone and all the other devices you have with cellular connectivity will use 5G instead of the 4G LTE technology they likely use today.
+
+Tech companies are promising a lot from 5G. While 4G tops out at a theoretical 100 megabits per second (Mbps), 5G tops out at 10 gigabits per second (Gbps). That means 5G is a hundred times faster than the current 4G technology—at its theoretical maximum speed, anyway.
+
+For example, the Consumer Technology Association pointed out that, at this speed, you could download a two-hour movie in just 3.6 seconds on 5G, versus 6 minutes on 4G or 26 hours on 3G.
+
+It’s not just throughput, either. 5G promises to significantly reduce latency, which means faster load times and improved responsiveness when doing just about anything on the internet. Specifically, the specification promises a maximum latency of 4ms on 5G versus 20ms on 4G LTE today.
+
+At these speeds, 5G beats current home cable internet connections and is more comparable to fiber. Landline internet companies like Comcast, Cox, and others may face serious competition—especially when they’re the only option for speedy home internet in a certain area. Wireless carriers can deliver an alternative without laying down physical wires to every home.
+
+Presenters wanted us to think of 5G as enabling super-fast, practically unlimited internet everywhere, and to all devices. Of course, in the real world, internet service providers impose data caps. For example, even if your wireless carrier gave you a 100 GB data cap—which is much larger than most plans today—you could blow through that in a minute and 20 seconds at the maximum theoretical speed of 100 Gbps. It’s unclear what caps carriers will ultimately impose and how much that will affect usage.
+
+5G takes advantage of a lot of technology in an attempt to achieve these fast speeds. There isn’t just one innovation at play. The IEEE Spectrum magazine does a good job of explaining a lot of the technical details in more depth, but here’s a quick summary.
+
+The new standard will use a whole new band of radio spectrum from 4G. 5G will take advantage of “millimeter waves”, broadcast at frequencies between 30 and 300 GHz versus the bands below 6 GHz that were used in the past. These were previously only used for communication between satellites and radar systems. But millimeter waves can’t easily travel through buildings or other solid objects, so 5G will also take advantage of “small cells”—smaller miniature based stations that can be placed about every 250 meters throughout dense urban areas. These would provide much better coverage in such locations.
+
+These base stations  also use “massive MIMO”. MIMO stands for “multiple-input multiple-output.” You might even have a home wireless router with MIMO technology, which means it has multiple antennas it can use to talk to multiple different wireless devices at once rather than quickly switching between them. Massive MIMO will use dozens of antennas on a single base station. They will also take advantage of beamforming to better direct those signals, directing the wireless signal in a beam pointing at the device and reducing interference for other devices.
+
+5G base stations will also run at full duplex, which means they can transmit and receive at the same time, on the same frequency. Today, they have to switch between transmitting and listening modes, slowing things down. That’s just a snapshot of some of the technology being incorporated to make 5G so fast.
+
+In the USA, Verizon will begin rolling out a non-standard version of 5G in the second half of 2018, using it for home internet access in five cities. Cell phones that support 5G wouldn’t be able to connect, but it won’t be for phones, anyway—just as a way to offer speedy home internet service, wirelessly.
+
+AT&T promises to begin rolling out 5G for phones in late 2018, but real, widespread 5G deployment likely won’t start until 2019. T-Mobile has promised to begin the rollout in 2019, with “nationwide coverage” in 2020. Sprint announced it will start deploying 5G in late 2019. With schedules like these, 5G technology likely won’t be widespread until 2020, at the absolute earliest.
+
+Qualcomm, which makes the chips used in many Android phones, has promised 5G phones for 2019. And yes, you’ll need to get a new phone and other cellular devices with support for 5G, just as cellular carriers need to replace their hardware to support 5G.
+
+You’ll be hearing a lot more about 5G in the next few years as the rollout actually begins, but the hype machine is already starting up. Take the maximum theoretical speeds with a grain of salt and be prepared to wait a few years for widespread coverage, but be excited—wireless internet is about to get a lot faster.
+
+Today we enjoy the benefits of on-the-go mobile data thanks to 4G wireless technology. 4G comes equipped with an alphabet soup of features like multiple-input multiple-output (MIMO), further enhanced intercell interference coordination (FeICIC), co-ordinated multipoint (CoMP), beamforming, enhanced multimedia broadcast multicast system (eMBMS), license assisted access (LAA), higher order modulation with 256QAM, carrier aggregation (CA), dual connectivity (DC) and many more all supported in frequency and time division duplex (FDD and TDD) bands.
+
+But all that is a prologue to the rollout of the fifth generation of wireless technology, better known as 5G. Obviously, 5G should be better than its predecessor, right? But how? This blog describes eight aspects that 5G will outperform 4G.
+
+5G is the newest version of mobile technology — 5G stands for 5th generation — and while it will transform the way we use our phones, it also has the potential to transform many other aspects of everyday life. Here’s a brief introduction to the benefits of 5G, and some of technologies we might see as a result.
+
+With every new generation of mobile technology, the first thing that catches people’s attention is always speed. With 5G, speed is taking a huge leap upwards. With 5G, we’re going to see speeds of up to 10 Gbps. For the first time, mobile network speeds are matching the speeds of business and area networks.
+
+5G also creates massive increases in throughput, or how much overall volume the network can carry. Networking is a finite resource. You’ve probably noticed that when there’s more people on a home network, traffic moves more slowly. This is because the overall throughput is low. With 5G, they’re promising 10 TB terabytes per square kilometer, so you’re getting massive density in addition to speed. It’s like being in rush-hour traffic, while still moving at the speed limit.
+
+In addition to speed and throughput, 5G promises greatly increased device density, mobility and energy efficiency. The 5G network will be able to support up to 1 million devices per square kilometer. This will open the floodgates even wider for IoT devices, and those devices can stay connected, with greater battery life, even if you’re moving at speeds up to 500 km/h.
+
+Finally, 5G brings incredibly low latency and very high reliability. A big factor with real-time video communication is when the video stops and starts — this is caused by latency, when it takes too long for the next set of packets to get to the destination. 5G will eliminate this. 5G is creating telephone network reliability on a mobile network. If you think in terms of the possibilities, being able to internet-connect everything, with super-high speeds and unbelievably good latency and reliability, will substantially increase the range of devices that can be connected, the range of applications that can be run and the sheer number of tasks that can be performed.
+
+5G could pave the way for revolutionary and previously unimagined applications. Imagine a world where health care, even minor surgical procedures, was available remotely. Or a world where all cars are driverless, connecting seamlessly with each other to move people and goods safely and efficiently. 5G could bring these technologies to life, in just a few years.
+
+Just as we can’t fully anticipate all the ways that 5G technology could improve our lives, we also can’t fully understand the risks. As we put more of our data out there, we become more exposed. If 5G networks, and the devices that run on them, are not secure, the consequences could be devastating. To see all the benefits of 5G, we must make sure that these innovative new devices and technologies have security built in as an integral part. There’s no doubt that the 5G world will be exciting. Let’s make sure that it’s exciting for the right reasons.
+
+PCMag.com is a leading authority on technology, delivering Labs-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.
+
+Verizon Wireless has won the race to 5G—sort of. On October 1, Verizon launched its "5G" home service in Houston, Indianapolis, Los Angeles, and Sacramento, establishing equivocal bragging rights and setting off a domino run of 5G network launches that will continue through next spring.
+
+That first network isn't actually the real, global mobile standard for 5G. The first one of those will likely be AT&T's network, coming by the end of the year. (Verizon plans to switch to the global standard next year, swapping out equipment at no cost to existing customers.) This all means you're about to see the marketing for 5G get ramped up quite a lot, and so it's good to know what everyone's actually talking about.
+
+5G stands for fifth-generation cellular wireless, and the initial standards for it were set at the end of 2017. But a standard doesn't mean that all 5G will work the same—or that we even know what applications 5G will enable. There will be slow but responsive 5G, and fast 5G with limited coverage. Let us take you down the 5G rabbit hole to give you a picture of what the upcoming 5G world will be like.
+
+The G in 5G means it's a generation of wireless technology. While most generations have technically been defined by their data transmission speeds, each has also been marked by a break in encoding methods, or "air interfaces," which make it incompatible with the previous generation.
+
+5G brings three new aspects to the table: greater speed (to move more data), lower latency (to be more responsive), and the ability to connect a lot more devices at once (for sensors and smart devices).
+
+The actual 5G radio system, known as 5G-NR, won't be compatible with 4G. But all 5G devices, initially, will need 4G because they'll lean on it to make initial connections before trading up to 5G where it's available.
+
+4G will continue to improve with time, as well. The Qualcomm X24 modem, which will be built into most 2019 Android flagship phones, will support 4G speeds up to 2Gbps. The real advantages of 5G will come in massive capacity and low latency, beyond the levels 4G technologies can achieve.
+
+That symbiosis between 4G and 5G has caused AT&T to get a little overenthusiastic about its 4G network. The carrier has started to call its 4G network "5G Evolution," because it sees improving 4G as a major step to 5G. It's right, of course. But the phrasing is designed to confuse less-informed consumers into thinking 5G Evolution is 5G, when it isn't.
+
+Verizon's home service, which is a nonstandard form of 5G, has led its competitors to claim that it's not really 5G. But given that it offers multi-gigabit wireless speeds and will be swiftly transitioned over to the standard version, I'm willing to give Verizon a pass.
+
+The various carriers have promised 5G deployments in cities around the country. This map shows some of the announced locations.
+
+Like other cellular networks, 5G networks use a system of cell sites that divide their territory into sectors and send encoded data through radio waves. Each cell site must be connected to a network backbone, whether through a wired or wireless backhaul connection.
+
+5G networks will use a type of encoding called OFDM, which is similar to the encoding that 4G LTE uses. The air interface will be designed for much lower latency and greater flexibility than LTE, though.
+
+5G networks need to be much smarter than previous systems, as they're juggling many more, smaller cells that can change size and shape. But even with existing macro cells, Qualcomm says 5G will be able to boost capacity by four times over current systems by leveraging wider bandwidths and advanced antenna technologies.
+
+5G primarily runs in two kinds of airwaves: below and above 6GHz.
+
+Low-frequency 5G networks, which use existing cellular and Wi-Fi bands, take advantage of more flexible encoding and bigger channel sizes to achieve speeds 25 to 50 percent better than LTE, according to a presentation by T-Mobile exec Karri Kuoppamaki. Those networks can cover the same distances as existing cellular networks and generally won't need additional cell sites. Sprint, for example, is setting up all of its new 4G cell sites as 5G-ready, and it'll just flip the switch when the rest of its network is prepared.
+
+The real 5G innovation is happening at higher frequencies, known as millimeter wave. Down in the existing cellular bands, only relatively narrow channels are available because that spectrum is so busy and heavily used. But up at 28GHz and 39GHz, there are big, broad swathes of spectrum available to create big channels for very high speeds.
+
+AT&T has proclaimed that it will be first with mobile 5G when it launches a network in 19 cities by the end of this year. The company has listed its 19 cities and says that initially there will be one 5G device, a mobile internet hotspot potentially called the Netgear Nighthawk M5 Fusion that we saw at a Qualcomm event in December. Phones will come next year. AT&T will use 39GHz spectrum for its initial rollout, followed by some 28GHz, and then low band, former 3G spectrum later in the year.
+
+Verizon is starting out with its fixed 5G home internet service, which is now available. It will follow with a mobile 5G network in 2019, the carrier has said. The carrier is mostly using 28GHz spectrum.
+
+5G home internet shows one major advantage over 4G: huge capacity. Carriers can't offer competitively priced 4G home internet because there just isn't enough capacity on 4G cell sites for the 190GB of monthly usage most homes now expect. This could really increase home internet competition in the US, where, according to a 2016 FCC report, 51 percent of Americans only have one option for 25Mbps or higher home internet service. For its part, Verizon said its 5G service will be truly unlimited.
+
+5G home internet is also much easier for carriers to roll out than house-by-house fiber optic lines. Rather than digging up every street, carriers just have to install fiber optics to a cell site every few blocks, and then give customers wireless modems. Verizon chief network officer Nicki Palmer said the home internet service would eventually be offered wherever Verizon has 5G wireless, which will give it much broader coverage than the carrier's fiber-optic FiOS service.
+
+T-Mobile is building a nationwide 5G network on the 600MHz and 28GHz bands starting sometime in 2019, with full national coverage by 2020.
+
+The speed of a wireless network is tied to how much spectrum you can use for it. Because T-Mobile is only using an average of 31MHz of spectrum at 600MHz as opposed to the hundreds of MHz that millimeter wave networks will use, its low-band 5G network will be a little bit faster than 4G, but not multiple gigabits fast. It will still have the low latency and many connections aspects of 5G, making it usable for gaming, self-driving cars, and smart cities, for instance. In cities, the millimeter-wave network will be super fast.
+
+Sprint's 5G will be on the 2.5GHz band, which will give it similar coverage to Sprint's existing 4G LTE network; in fact, it will use the same cell sites. Sprint CTO John Saw said that means its 5G phones will be slimmer and slicker than 5G phones that use the new 28GHz bands.
+
+The first round of 5G phones will only support some of the 5G systems being used in the US. They will not support low-band, FDD networks, such as T-Mobile's 600MHz and AT&T's old 3G spectrum. So if broad 5G coverage is more important to you than top speeds in urban areas, you may want to wait for phones that support those networks during the second half of the year.
+
+Samsung has pledged an early flagship phone, probably the Samsung Galaxy S10, for AT&T, Verizon, and possibly Sprint. This will probably be announced in February and become available in March. The company has also said it will release a second 5G phone for AT&T's broader low-band network during the second half of the year.
+
+Sprint has said an integrated 4G/5G Android phone from LG will come to its network during the "first half of 2019."
+
+Verizon's first 5G phone could be the existing Moto Z3, which has a 5G add-on promised for early next year.
+
+Many other companies, including OnePlus, ZTE, Oppo, Vivo, and Xiaomi, have pledged to produce 5G phones in 2019. But it's not clear if any of those will come to the US, as the first round of 5G phones are likely to be carrier-specific.
+
+We think there will be a 5G iPhone in 2020, but not before.
+
+So Verizon wants to initially use 5G as a home internet service, and everybody else is more focused on faster smartphones. Those uses are table stakes, just to get the networks built so more interesting applications can develop in the future.
+
+On a trip to Oulu, Finland, where they have a 5G development center, we attended a 5G hackathon. The top ideas included a game streaming service; a way to do stroke rehab through VR; smart bandages that track your healing; and a way for parents to interact with babies who are stuck in incubators. All of these ideas need either the high bandwidth, low latency, or low-power-low-cost aspects of 5G.
+
+This year, we surveyed the 5G startups that Verizon is nurturing in New York. At the carrier's Open Innovation Lab, we saw high-resolution wireless surveillance cameras, game streaming, and virtual reality physical therapy.
+
+Our columnist Michael Miller thinks that 5G will be most important for industrial uses, like automating seaports and industrial robots.
+
+Driverless cars may need 5G to really kick into action, our editor Oliver Rist explained after CES. The first generation of driverless cars will be self-contained, but future generations will interact with other cars and smart roads to improve safety and manage traffic. Basically, everything on the road will be talking to everything else.
+
+To do this, you need extremely low latencies. While the cars are all exchanging very small packets of information, they need to do so almost instantly. That's where 5G's sub-one-millisecond latency comes into play, when a packet of data shoots directly between two cars, or bounces from a car to a small cell on a lamppost to another car. (One light-millisecond is about 186 miles, so most of that 1ms latency is still processing time.)
+
+Another aspect of 5G is that it will connect many more devices. Right now, 4G modules are expensive, power-consuming, and demand complicated service plans, so much of the Internet of Things has stuck with Wi-Fi and other home technologies for consumers, or 2G for businesses. 5G will accept small, inexpensive, low-power devices, so it'll connect a lot of smaller objects and different kinds of ambient sensors to the internet.
+
+What about phones? The biggest change 5G may bring is in virtual and augmented reality. As phones transform into devices meant to be used with VR headsets, the very low latency and consistent speeds of 5G will give you an internet-augmented world, if and when you want it. The small cell aspects of 5G may also help with in-building coverage, as it encourages every home router to become a cell site.
+
+We're looking forward to testing the first implementations of 5G as soon as they are live. Every year we drive around the country evaluating network speeds for our Fastest Mobile Networks feature, and as 5G rolls out, the results are sure to get more interesting—and exciting—than ever before.
+
+5G Confusion Reigns Among American Consumers
+
+
+							A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.© Copyright 2020 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.
+						
+
+
+							A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.© Copyright 2020 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.
+						
+
+ Today’s mobile users want faster data speeds and more reliable service. The next generation of wireless networks—5G—promises to deliver that, and much more. With 5G, users should be able to download a high-definition film in under a second (a task that could take 10 minutes on 4G LTE). And wireless engineers say these networks will boost the development of other new technologies, too, such as autonomous vehicles, virtual reality, and the Internet of Things.  
+
+If all goes well, telecommunications companies hope to debut the first commercial 5G networks in the early 2020s. Right now, though, 5G is still in the planning stages, and companies and industry groups are working together to figure out exactly what it will be. But they all agree on one matter: As the number of mobile users and their demand for data rises, 5G must handle far more traffic at much higher speeds than the base stations that make up today’s cellular networks. 
+
+At the moment, it’s not yet clear which technologies will do the most for 5G in the long run, but a few early favorites have emerged. The front-runners include millimeter waves, small cells, massive MIMO, full duplex, and beamforming. To understand how 5G will differ from today’s 4G networks, it’s helpful to walk through these five technologies and consider what each will mean for wireless users.
+
+There is one major drawback to millimeter waves, though—they can’t easily travel through buildings or obstacles and they can be absorbed by foliage and rain. That’s why 5G networks will likely augment traditional cellular towers with another new technology, called small cells.
+
+While traditional cell networks have also come to rely on an increasing number of base stations, achieving 5G performance will require an even greater infrastructure. Luckily, antennas on small cells can be much smaller than traditional antennas if they are transmitting tiny millimeter waves. This size difference makes it even easier to stick cells on light poles and atop buildings.
+
+This radically different network structure should provide more targeted and efficient use of spectrum. Having more stations means the frequencies that one station uses to connect with devices in one area can be reused by another station in a different area to serve another customer. There is a problem, though—the sheer number of small cells required to build a 5G network may make it hard to set up in rural areas.
+
+In addition to broadcasting over millimeter waves, 5G base stations will also have many more antennas than the base stations of today’s cellular networks—to take advantage of another new technology: massive MIMO. 
+
+Today’s 4G base stations have a dozen ports for antennas that handle all cellular traffic: eight for transmitters and four for receivers. But 5G base stations can support about a hundred ports, which means many more antennas can fit on a single array. That capability means a base station could send and receive signals from many more users at once, increasing the capacity of mobile networks by a factor of 22 or greater.
+
+This technology is called massive MIMO. It all starts with MIMO, which stands for multiple-input multiple-output. MIMO describes wireless systems that use two or more transmitters and receivers to send and receive more data at once. Massive MIMO takes this concept to a new level by featuring dozens of antennas on a single array.
+
+Massive MIMO looks very promising for the future of 5G. However, installing so many more antennas to handle cellular traffic also causes more interference if those signals cross. That’s why 5G stations must incorporate beamforming.
+
+Beamforming is a traffic-signaling system for cellular base stations that identifies the most efficient data-delivery route to a particular user, and it reduces interference for nearby users in the process. Depending on the situation and the technology, there are several ways for 5G networks to implement it. 
+
+Besides boosting data rates by broadcasting over millimeter waves and beefing up spectrum efficiency with massive MIMO, wireless engineers are also trying to achieve the high throughput and low latency required for 5G through a technology called full duplex, which modifies the way antennas deliver and receive data.
+
+With 5G, a transceiver will be able to transmit and receive data at the same time, on the same frequency. This technology is known as full duplex, and it could double the capacity of wireless networks at their most fundamental physical layer: Picture two people talking at the same time but still able to understand one another—which means their conversation could take half as long and their next discussion could start sooner.
+
+Some militaries already use full duplex technology that relies on bulky equipment. To achieve full duplex in personal devices, researchers must design a circuit that can route incoming and outgoing signals so they don’t collide while an antenna is transmitting and receiving data at the same time. 
+
+One drawback to full duplex is that it also creates more signal interference, through a pesky echo. When a transmitter emits a signal, that signal is much closer to the device’s antenna and therefore more powerful than any signal it receives. Expecting an antenna to both speak and listen at the same time is possible only with special echo-canceling technology.
+
+With these and other 5G technologies, engineers hope to build the wireless network that future smartphone users, VR gamers, and autonomous cars will rely on every day. Already, researchers and companies have set high expectations for 5G by promising ultralow latency and record-breaking data speeds for consumers. If they can solve the remaining challenges, and figure out how to make all these systems work together, ultrafast 5G service could reach consumers in the next five years. 
+
+© Copyright 2019 IEEE — All rights reserved. Use of this Web site signifies your agreement to the IEEE Terms and Conditions.A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+5G is here. China Mobile and Softbank plan thousands of sites. At Huawei's remarkable Tokyo Mobile BBF, both Softbank Japan and China Mobile showed enthusiasm. These are the first large moves in 5G, pulling Massive MIMO at least one year ahead of high-frequency millimeter wave. I believe my report Softbank's Giga Monster Massive MIMO: World's first commercial 5G is not highband millimeter wave was the first in the West. I have since learned that Huawei, as well as ZTE, provided equipment.
+
+The results of China Mobile's testing were also strong. Huang Yuhong, their 5G lead, tells me they will go into production deployments in 2017. She expects they will move rapidly to volume. China Mobile already has a dense network, with 1.3M bases for their 850M users. That's about 650 users per base station. As subscribers demand more, they need to continue adding capacity.
+
+FacebookVerizon 2017?: 5-10x Faster 5G M-MIMO
+
+[Shanghai, China, Nov 8, 2016] On November 4, 2016, China Mobile Shanghai Branch and Huawei jointly deployed the world's first wideband Massive MIMO site. This is another key milestone delivered after the world's first Massive MIMO solution was launched in Shanghai in September 2015. An achievement marking a great leap forward for large-scale commercial Massive MIMO technology and the beginning of a planned series of events outlined in the timetable for 5G large-bandwidth evolution. This solution has significantly improved single site capability in the 4G era indicated by a 5-fold increase, achieving 5-6 Giga capability of a single site.
+
+The Massive MIMO solution is the primary wireless innovation project that China Mobile has predominantly focused on in 2016. This solution can greatly improve 4G network spectral efficiency and help effectively handle any capacity challenges encountered during rapid mobile development. This solution is perfectly suited for the effective enhancement of coverage and interference mitigation capabilities to meet specialized coverage requirements (such as coverage of high-rise buildings). As a significant component of China Mobile's prospective research on 5G technologies, these activities help steer towards an important direction for the further development and future of 5G evolution.
+
+This newly introduced next-generation Massive MIMO solution is oriented specifically towards large-scale commercial use for China Mobile and assumes the lead in providing large-bandwidth capabilities. A single module supports activation of three carriers on 2.6GHz. Distributed network supports smooth evolution to CloudRAN architecture and ensures that hardware is sufficiently prepared and ready for 5G evolution. The average spectral efficiency of cells can be improved by 3-fold. Along with the rapid development of video services, the spectral efficiency can be increased to more than 5-fold. Huawei in-house-developed chips, new materials, and new techniques are used to provide increasingly compact and lighter site equipment. The expedient delivery of this solution is guaranteed as only one optical fiber and one power cable are required to ensure smooth deployment from an engineering perspective. The adoption of the latest chips helps provide processing capabilities 4-fold higher than that of the industry standard, clearly demonstrating the performance advantages inherent to Massive MIMO.
+
+ China Mobile has constructed the world's fastest-growing 4G network and must continuously innovate to address growing network development challenges. Shanghai China Mobile will continue to engage in close cooperation with Huawei to develop the capability of applying 5G technologies on 4G networks. The main objectives will be to target new network architectures, service development, continuous innovation, and encourage additional cooperation with partners to improve competitiveness of 4G mobile networks to deliver an optimal MBB user experience.
+
+Welcome  Asia is installing hundreds of thousands of 5G radios and adding 5G subs by the tens of millions. The west is far behind. 200,000,000 in 2020
+
+The demand is there, and most of the technology works. Meanwhile, the hype is unreal. Time for reporting closer to the truth.
+
+It’s all about 5G. No matter where you go or who you’re talking to, 5G is at the center of conversations about exciting new technology. While recent announcements from Mobile World Congress indicate that 5G is already here, it’s not. But we’re getting very close.
+
+The wireless communications community has had a busy year. From progress made on the standardization process and essential updates communicated from regulatory bodies, to gaining understanding of the channel for newly proposed millimeter-wave (mmWave) frequencies and technologies under development that will turn 5G into a commercial reality, anticipation for 5G is at an all-time high. So, what do all of the accomplishments from the past year mean for 5G?  And when will 5G be here?
+
+5G Frequencies: A Combination of mmWave and Sub-6-GHz 
+
+There’s a lot left to be defined when it comes to 5G, but one thing is certain: Sub-6 GHz spectrum is still very important, and mmWave frequencies will be used to supplement sub-6 GHz technology.
+
+Figure 1 shows the wide range of requirements expected of 5G, from ultra-reliable, high-bandwidth communication for enhanced mobile broadband (eMBB) applications, to the low-bandwidth, machine-to-machine (M2M) type communications we expect to see in Internet of Things (IoT) applications.
+
+1. Targeted 5G applications include enhanced mobile broadband and machine-to-machine communication.
+
+It’s difficult, if not impossible, for one band of spectrum to meet these needs. However, combining two bands provides complementary coverage. Sub-6-GHz spectrum offers better propagation and backward compatibility for narrowband applications, while the contiguous bandwidth at mmWave frequencies enables the key eMBB applications promised by 5G.
+
+2. Shown are the ITU and 3GPP timelines for 5G.
+
+The ITU’s proposed dates and the frequencies that will be used are anything but certain, though. At the March 2017 3GPP RAN plenary meeting (#75), a way forward (WF) was presented with an accelerated schedule for the release of 5G New Radio (NR) (Fig. 3).
+
+Verizon secured a license for the 28-GHz band from XO Communications last year, and has been vocal about its desire to use this frequency for its initial deployment. Despite not having a fully standardized version of the technology to roll out for this testing, Verizon is making a bet that the hardware they deploy now will have the capability to run whatever specification is eventually released through a software update in the future.2 Other U.S. carriers have agreed to use the 28-GHz band, and both AT&T; and T-Mobile indicated that they will conduct more research on 28-GHz-based technologies and partner with equipment providers for additional field trials.
+
+In 2015, Verizon established the 5G Technical Forum (5GTF) with Cisco, Ericsson, Intel, LG, Nokia, Qualcomm, and Samsung. The working group’s main goal was to develop a wireless alternative to fiber to the home (FTTH) using mmWave spectrum, also known as Fixed Wireless Access (FWA). The 5GTF draws largely from the LTE standard and adds concepts now being researched and proposed for 5G in 3GPP. 
+
+The 5GTF extends the subcarrier spacing by a multiple of 5 (75-kHz subcarriers versus 15 kHz yielding 100-MHz bandwidth per component carrier) and reduces the subframe spacing by an inverse proportion to maintain timing consistency with LTE.  The 5GTF also added control signals and expanded the physical layer to include digital beamforming and precoding. 
+
+At the IEEE Wireless Communications and Networking Conference (WCNC) in San Francisco, National Instruments (NI) demonstrated a real-time working prototype of the 5GTF.  While not the first prototype of the specification, it was notable for several reasons, one of which being that it was the first public demonstration of the technology in action.
+
+Verizon is aware that it will push out mmWave technology pre-standardization. The question looming over V5G is whether it will comply with 3GPP 5G standards or not; hence, the risk of deploying mmWave technology before defining the standards. If Verizon’s gamble pays off, Verizon will have a significant head start in the race to 5G. If not, it will need to replace a lot of outdated hardware.
+
+NR is intended to cover all applications and all frequency bands, including the three main application performance indicators for 5G put forth by the ITU: enhanced mobile broadband (eMBB), Ultra Reliable Low Latency Communications (URLLC), and Massive Machine Type Communications (MMTC). That means that the physical layer needs to be flexible enough to generate significantly higher data throughput while allowing for hundreds of times more devices to connect to the network for Narrowband IoT (NB-IoT).
+
+The PHY also needs to be reliable enough with low enough latency to be used in self-driving cars. This is no easy task, and the standards being proposed for NR are significantly more complex than V5G. Certain aspects like adding beam management are similar between the two, but NR will incorporate both slow and fast beam management. NR will also leverage LTE as much as possible, but it uses different sample and subcarrier rates.
+
+A 2018 Finish Line for the Race to 5G 
+
+By early 2018, we will likely have an answer to “What is 5G?” Based on the accelerated schedule presented at the March 2017 3GPP RAN plenary meeting (#75), the physical layer and MAC layer for NR will be settled by the end of 2017.
+
+Frequency selection doesn’t have a strict deadline, but operators are pushing technology forward to get 28-GHz hardware deployed in 2017 field trials. By the second quarter of 2018, South Korea will have demonstrated its 5G technology preview. The full standardization process will not be complete yet, but a clearer picture of what 5G is will begin to emerge. The race to define 5G may be ending, but the process to design and deploy 5G technology is just beginning.
+
+
+Yu, H.; Lee, H.; Jeon, H. What is 5G? Emerging 5G Mobile Services and Network Requirements. Sustainability 2017, 9, 1848.
+
+
+
+Yu H, Lee H, Jeon H. What is 5G? Emerging 5G Mobile Services and Network Requirements. Sustainability. 2017; 9(10):1848.
+
+
+
+Yu, Heejung; Lee, Howon; Jeon, Hongbeom. 2017. "What is 5G? Emerging 5G Mobile Services and Network Requirements." Sustainability 9, no. 10: 1848.
+
+
+As the leader of Intel’s Communication and Devices Group, I find 5G exciting not because of what we know about it, but rather what we don’t know about it.
+
+Quoting my colleague Murthy Renduchintala, 5G is not simply the sequential evolution in the connectivity journey, rather it is as transformational as the move “from analog to digital.” Connecting and enabling intelligence for the anticipated 50 billion connected Internet of Things devices that are coming demands an entirely new generation of network.
+
+5G will enable billions of “things” to become smart through seamless connectivity, massive computing power and access to rich data and analytics stored at the edge of the cloud. In doing so, 5G will change the way we experience life in our homes, our cities and the world around us. It will erode the boundaries between the physical and digital to deliver rich new experiences and valuable new services.
+
+The new Intel® 5G Modem we are announcing today is a milestone for the industry, enabling businesses across the globe to develop and launch early 5G solutions. It will accelerate the development of 5G-enabled devices – offering opportunities for leaders across diverse industries to innovate with early deployments. However, today’s communications systems weren’t designed to accommodate the massive bandwidth required to support such an evolution, or the ultra-low latency needed to allow devices or even vehicles to react to split-second events.
+
+This is why Intel’s 5G modem stands out: The modem’s baseband chip pairs with a new 5G transceiver that enables both sub-6 Ghz and mmWave capabilities. This powerful combination incorporates key 3GPP 5G NR (new radio) technology – including low latency frame structures, advanced channel coding and massive MIMO – to deliver faster connectivity and ultra-responsiveness. Our goal is to support both early trials and to lay a foundation enabling accelerated development of products that will support the 3GPP NR specification and help drive global adoption of the 3GPP 5G standard.
+
+One challenge facing operators today is keeping up with demand for speed and network capacity by consumers transitioning more of their connected lives to media-heavy applications. The new Intel 5G Modem is laying the groundwork for new devices capable of enhanced broadband speeds to satisfy media-hungry users. It is capable of delivering 5G in both sub-6 GHz bands and mmWave spectrum in regions worldwide – including the United States, Europe, Korea and Japan – making it a true global solution. The modem will begin sampling in the second half of this year.
+
+More importantly, 5G will enable industries to improve our daily lives. With 5G, autonomous vehicles will be able to make decisions in milliseconds to keep drivers and vehicles safe. Drones will aid in disaster recovery efforts, providing real-time data for emergency responders. Smart cities will monitor air and water quality through millions of sensors, giving them insights needed to provide a better quality of life.
+
+A deeper dive on autonomous vehicles show how they will be, in effect, data centers on wheels. The vehicles themselves will generate massive amounts of data, but they will also need to take in large quantities of data to navigate and react to sudden changes. That’s where 5G comes in. It will deliver faster speeds, ultra-low latency and innovative technologies such as vehicle-to-vehicle (V2V) connectivity to usher in the autonomous future.
+
+The Intel 5G Modem is a step toward creating products based on the key learnings from Intel’s 5G Mobile Trial Platform (MTP) launched in early 2016. Our MTP is being used in active trials all over the globe, and is the foundation for the just-announced Intel GO™ Automotive 5G Platform – the industry’s first 5G-ready platform for the automotive segment. Specially designed from the ground up for the automotive industry, this platform allows automakers to develop and test a broad range of 5G use cases and applications, accelerating Intel’s compute, connectivity and cloud 5G automotive solution story.
+
+Of course it’s the “unknown” part of 5G’s story that’s most thrilling in my mind. With the right technologies in place and reliable platforms on which to test them, the opportunities to innovate, invent and launch products and services are virtually unlimited. We at Intel are proud to be collaborating with leading service providers, network infrastructure providers, top manufacturers and vertical business leaders across industries to map out this journey into the unknown – fueling a new era of human and technological possibility.
+
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers’ greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash the potential of data to transform business and society for the better. To learn more about Intel’s innovations, go to newsroom.intel.com and intel.com.
+
+As the leader of Intel’s Communication and Devices Group, I find 5G exciting not because of what we know about it, but rather what we don’t know about it.
+
+Quoting my colleague Murthy Renduchintala, 5G is not simply the sequential evolution in the connectivity journey, rather it is as transformational as the move “from analog to digital.” Connecting and enabling intelligence for the anticipated 50 billion connected Internet of Things devices that are coming demands an entirely new generation of network.
+
+5G will enable billions of “things” to become smart through seamless connectivity, massive computing power and access to rich data and analytics stored at the edge of the cloud. In doing so, 5G will change the way we experience life in our homes, our cities and the world around us. It will erode the boundaries between the physical and digital to deliver rich new experiences and valuable new services.
+
+The new Intel® 5G Modem we are announcing today is a milestone for the industry, enabling businesses across the globe to develop and launch early 5G solutions. It will accelerate the development of 5G-enabled devices – offering opportunities for leaders across diverse industries to innovate with early deployments. However, today’s communications systems weren’t designed to accommodate the massive bandwidth required to support such an evolution, or the ultra-low latency needed to allow devices or even vehicles to react to split-second events.
+
+This is why Intel’s 5G modem stands out: The modem’s baseband chip pairs with a new 5G transceiver that enables both sub-6 Ghz and mmWave capabilities. This powerful combination incorporates key 3GPP 5G NR (new radio) technology – including low latency frame structures, advanced channel coding and massive MIMO – to deliver faster connectivity and ultra-responsiveness. Our goal is to support both early trials and to lay a foundation enabling accelerated development of products that will support the 3GPP NR specification and help drive global adoption of the 3GPP 5G standard.
+
+One challenge facing operators today is keeping up with demand for speed and network capacity by consumers transitioning more of their connected lives to media-heavy applications. The new Intel 5G Modem is laying the groundwork for new devices capable of enhanced broadband speeds to satisfy media-hungry users. It is capable of delivering 5G in both sub-6 GHz bands and mmWave spectrum in regions worldwide – including the United States, Europe, Korea and Japan – making it a true global solution. The modem will begin sampling in the second half of this year.
+
+More importantly, 5G will enable industries to improve our daily lives. With 5G, autonomous vehicles will be able to make decisions in milliseconds to keep drivers and vehicles safe. Drones will aid in disaster recovery efforts, providing real-time data for emergency responders. Smart cities will monitor air and water quality through millions of sensors, giving them insights needed to provide a better quality of life.
+
+A deeper dive on autonomous vehicles show how they will be, in effect, data centers on wheels. The vehicles themselves will generate massive amounts of data, but they will also need to take in large quantities of data to navigate and react to sudden changes. That’s where 5G comes in. It will deliver faster speeds, ultra-low latency and innovative technologies such as vehicle-to-vehicle (V2V) connectivity to usher in the autonomous future.
+
+The Intel 5G Modem is a step toward creating products based on the key learnings from Intel’s 5G Mobile Trial Platform (MTP) launched in early 2016. Our MTP is being used in active trials all over the globe, and is the foundation for the just-announced Intel GO™ Automotive 5G Platform – the industry’s first 5G-ready platform for the automotive segment. Specially designed from the ground up for the automotive industry, this platform allows automakers to develop and test a broad range of 5G use cases and applications, accelerating Intel’s compute, connectivity and cloud 5G automotive solution story.
+
+Of course it’s the “unknown” part of 5G’s story that’s most thrilling in my mind. With the right technologies in place and reliable platforms on which to test them, the opportunities to innovate, invent and launch products and services are virtually unlimited. We at Intel are proud to be collaborating with leading service providers, network infrastructure providers, top manufacturers and vertical business leaders across industries to map out this journey into the unknown – fueling a new era of human and technological possibility.
+
+About Intel
+Intel (NASDAQ: INTC) expands the boundaries of technology to make the most amazing experiences possible. Information about Intel can be found at newsroom.intel.com and intel.com.
+
+"Autonomous cars do not need 5G," respected Professor Gerhard Fettweis told us in the spring. Karl-Heinz Laudan of Deutsche Telecom agrees. "Automotive does not need mmWaves. I can now add an informed source, Don Butler, executive director, Ford Connected Vehicle Platform and Product. "These vehicles will be fully capable of operating without C-V2X." That's of course true. Otherwise, the cars would shut down when out of range of a cell site.
+
+C-V2X is a wireless communication technology that can “talk” to and “listen” for similarly equipped vehicles, people and traffic management infrastructure such as traffic lights to relay important information and help make city mobility safer and less congested. Planned alongside the rapidly building 5G cellular network, C-V2X enables direct communication between the connected devices, meaning a signal doesn’t need to first travel to a cellular tower, allowing vehicles to quickly send and receive information. Ultimately, it lets drivers know what’s ahead of them even before they have to encounter it.
+
+Road signs could provide advance warning of recent accidents or provide more context regarding road construction, giving drivers the opportunity to reroute or more safely move through work zones. Further out, cities could even use this technology to enable smart vehicles to “talk” to smart traffic management systems to create better flowing transportation systems.
+
+Our move to deploy this technology builds on our prior commitment to equip every model we release in the United States with conventional cellular connectivity by the end of 2019.
+
+While these vehicles will be fully capable of operating without C-V2X, the technology could add to its comprehensive view from the LiDAR, radar and camera sensors. For instance, if emergency vehicles were equipped with C-V2X transmitters, they could notify self-driving vehicles that may be on their route so the vehicles pull over or reroute in plenty of time. Self-driving vehicles could even get real-time updates on road conditions that affect their routes.
+
+Welcome  Asia is installing hundreds of thousands of 5G radios and adding 5G subs by the tens of millions. The west is far behind. 200,000,000 in 2020
+
+The demand is there, and most of the technology works. Meanwhile, the hype is unreal. Time for reporting closer to the truth.
+
+Eric Xu, current Huawei Chairman, concludes "consumers would find no 'material difference between 5G & LTE'.” Louise Lucas and Nic Fildes,  Financial Times He added, "Since 4G is robust, we don’t see many use cases or applications we need to support with 5G.” 
+
+Last May, I reported similar thoughts from Telefonica CTO Enrico Blanco. In November, DT CTO Bruno Jacobfeuerborn,  FT/Orange SVP Arnaud Vamparys, and BT CEO Gavin Patterson chimed in. The politicians & marketers screamed "5G Revolution." The engineers knew better. 
+
+Latency:  Ericsson has promised LTE latency of 9 ms in 2018. AT&T's 5G latency is 9-11 ms.
+
+Speed: 4G LTE 2018 is hundreds of megabits, peaking over a gigabit. 90% of 5G on the way is midband, the same hundreds of megabits. Only 10-20% of the first few years will be millimeter wave, often a gigabit.
+
+Applications: 5G's main application around the world will be more capacity, a good thing for telcos. But most of the other claims are b______. 
+
+"5G Revolution" is dead. Millimeter wave and Massive MIMO will be crucial to telcos going forward; midband spectrum will be important, running at LTE speeds and really LTE with a minor software tweak and a press release. Until 2018, it was called TD-LTE.
+
+Verizon's D.C. rep, CTIA, has nonsense claims for 5G, based on 4G applications. 
+
+Welcome  Asia is installing hundreds of thousands of 5G radios and adding 5G subs by the tens of millions. The west is far behind. 200,000,000 in 2020
+
+The demand is there, and most of the technology works. Meanwhile, the hype is unreal. Time for reporting closer to the truth.
+
+Eric Xu, current Huawei Chairman, concludes "consumers would find no 'material difference between 5G & LTE'.” Louise Lucas and Nic Fildes,  Financial Times He added, "Since 4G is robust, we don’t see many use cases or applications we need to support with 5G.” 
+
+Last May, I reported similar thoughts from Telefonica CTO Enrico Blanco. In November, DT CTO Bruno Jacobfeuerborn,  FT/Orange SVP Arnaud Vamparys, and BT CEO Gavin Patterson chimed in. The politicians & marketers screamed "5G Revolution." The engineers knew better. 
+
+Latency:  Ericsson has promised LTE latency of 9 ms in 2018. AT&T's 5G latency is 9-11 ms.
+
+Speed: 4G LTE 2018 is hundreds of megabits, peaking over a gigabit. 90% of 5G on the way is midband, the same hundreds of megabits. Only 10-20% of the first few years will be millimeter wave, often a gigabit.
+
+Applications: 5G's main application around the world will be more capacity, a good thing for telcos. But most of the other claims are b______. 
+
+"5G Revolution" is dead. Millimeter wave and Massive MIMO will be crucial to telcos going forward; midband spectrum will be important, running at LTE speeds and really LTE with a minor software tweak and a press release. Until 2018, it was called TD-LTE.
+
+Verizon's D.C. rep, CTIA, has nonsense claims for 5G, based on 4G applications. 
+
+May 2018 Verizon's $20B 5G build is on for adding customers in 2018. Gigabit LTE & Massive MIMO became real in 2017. China, Japan, Korea, and Verizon U.S. 5G are firm, with heavy investment expected 2019-2021. Europe is mostly pr. The term 5G has been bastardized, unfortunately.
+
+Being a reporter is a great job for a geek. I'm not an engineer but I've learned from some of the best, including the primary inventors of DSL, cable modems, MIMO, Massive MIMO, and now 5G mmWave. Since 1999, I've done my best to get closer to the truth about broadband.
+
+Eric Xu, current Huawei Chairman, recently said consumers would find no “material difference between 4G & 5G.” That remains true. Peak speeds will be similar and total capacity only matters if the cell is near to congestion, surprisingly rare. Even then, is a fall from 300 megabits to 200 megabits meaningful to the consumer?
+
+My question asked about the same generation equipment, same spectrum, and same antennas. I spoke with him afterwards and I believe we were discussing a fair comparison. 5G NR is a change in line coding, easily and inexpensively added to many new base stations. The LTE standard, I'm told, was often so close to Shannon's Limit there was little room for improvement in primary performance. (I'm not qualified to judge that.) "5G" is designed to use more spectrum and antennas, the main drivers. It allows blocks of 400 MHz in mmWave compared to 100 MHz blocks in LTE.
+
+NR almost didn't make it into the 5G specs because telcos did not want to upgrade their LTE systems and didn't see a large advantage. Qualcomm pushed very hard because it would allow them to raise royalties. (Qualcomm royalties have recently gone up about a third, perhaps $2B/year.)
+
+NR has only a modest effect on latency. For example, AT&T has announced 9-11 ms latency for mmWave testing. Ericsson tells me they will ship LTE with 9 ms. latency in 2018. Ericsson also announced LTE with 2 ms., not much more than the 1 ms promised with 5G. (Neither LTE nor 5G is shipping with latency that low.)
+
+State of the art handset chips for LTE (Qualcomm) & 5G (Huawei) were both at MWC. Both companies told me the peak speed was about 2 gigabits. The performance was remarkably similar. link A very senior engineer told me last fall NR had only a small speed advantage over LTE. However, she and others believe the new equipment, called 5G, would be much better than the older gear in the field. Duh.
+
+5-10 times improvements are based on comparisons of older LTE equipment and future 5G equipment, obviously misleading. Often, they use more spectrum and antennas in their 5G figure than in the LTE. Nearly all the improvements in 5G (except mmWave) work in LTE as well and are being incorporated in today's equipment. Apples to apples, the differences are not large.
+
+The most important improvement in latency is "short TTI." That was included in 3GPP Release 14 (LTE) and works for both LTE & 5G. There are some small differences in throughput in some cases. Guard bands may be larger in many LTE deployments and some other changes may have an impact.
+
+This article is about whether the NR (New Radio) line code makes a difference in LTE frequencies. The slower low band and mid-band will be 80% to 90% of "5G" for the next few years. Millimeter Wave is not supported in LTE and is a major improvement. 5G mmWave in 2018 testing is delivering two or three times the total capacity of 2018 LTE and somewhat more speed to the user. That will probably improve.
+
+They are making crucial decisions in order to "promote 5G." They have impossible expectations for what 5G will deliver, egged on by telcos wanting concessions worth 10's of billions or more.
+
+Welcome  Asia is installing hundreds of thousands of 5G radios and adding 5G subs by the tens of millions. The west is far behind. 200,000,000 in 2020
+
+The demand is there, and most of the technology works. Meanwhile, the hype is unreal. Time for reporting closer to the truth.
+
+Eric Xu, current Huawei Chairman, recently said consumers would find no “material difference between 4G & 5G.” That remains true. Peak speeds will be similar and total capacity only matters if the cell is near to congestion, surprisingly rare. Even then, is a fall from 300 megabits to 200 megabits meaningful to the consumer?
+
+My question asked about the same generation equipment, same spectrum, and same antennas. I spoke with him afterwards and I believe we were discussing a fair comparison. 5G NR is a change in line coding, easily and inexpensively added to many new base stations. The LTE standard, I'm told, was often so close to Shannon's Limit there was little room for improvement in primary performance. (I'm not qualified to judge that.) "5G" is designed to use more spectrum and antennas, the main drivers. It allows blocks of 400 MHz in mmWave compared to 100 MHz blocks in LTE.
+
+NR almost didn't make it into the 5G specs because telcos did not want to upgrade their LTE systems and didn't see a large advantage. Qualcomm pushed very hard because it would allow them to raise royalties. (Qualcomm royalties have recently gone up about a third, perhaps $2B/year.)
+
+NR has only a modest effect on latency. For example, AT&T has announced 9-11 ms latency for mmWave testing. Ericsson tells me they will ship LTE with 9 ms. latency in 2018. Ericsson also announced LTE with 2 ms., not much more than the 1 ms promised with 5G. (Neither LTE nor 5G is shipping with latency that low.)
+
+State of the art handset chips for LTE (Qualcomm) & 5G (Huawei) were both at MWC. Both companies told me the peak speed was about 2 gigabits. The performance was remarkably similar. link A very senior engineer told me last fall NR had only a small speed advantage over LTE. However, she and others believe the new equipment, called 5G, would be much better than the older gear in the field. Duh.
+
+5-10 times improvements are based on comparisons of older LTE equipment and future 5G equipment, obviously misleading. Often, they use more spectrum and antennas in their 5G figure than in the LTE. Nearly all the improvements in 5G (except mmWave) work in LTE as well and are being incorporated in today's equipment. Apples to apples, the differences are not large.
+
+The most important improvement in latency is "short TTI." That was included in 3GPP Release 14 (LTE) and works for both LTE & 5G. There are some small differences in throughput in some cases. Guard bands may be larger in many LTE deployments and some other changes may have an impact.
+
+This article is about whether the NR (New Radio) line code makes a difference in LTE frequencies. The slower low band and mid-band will be 80% to 90% of "5G" for the next few years. Millimeter Wave is not supported in LTE and is a major improvement. 5G mmWave in 2018 testing is delivering two or three times the total capacity of 2018 LTE and somewhat more speed to the user. That will probably improve.
+
+They are making crucial decisions in order to "promote 5G." They have impossible expectations for what 5G will deliver, egged on by telcos wanting concessions worth 10's of billions or more.
+
+May 2018 Verizon's $20B 5G build is on for adding customers in 2018. Gigabit LTE & Massive MIMO became real in 2017. China, Japan, Korea, and Verizon U.S. 5G are firm, with heavy investment expected 2019-2021. Europe is mostly pr. The term 5G has been bastardized, unfortunately.
+
+Being a reporter is a great job for a geek. I'm not an engineer but I've learned from some of the best, including the primary inventors of DSL, cable modems, MIMO, Massive MIMO, and now 5G mmWave. Since 1999, I've done my best to get closer to the truth about broadband.
+
+PCMag.com is a leading authority on technology, delivering Labs-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.
+
+This is the first time we've actually been able to see and test commercial LAA in the US. The technology, which we've heard a lot about for a year now, pipes 4G LTE signals over unused 5GHz Wi-Fi channels to widen a carrier's available bandwidth. For carriers other than Sprint, LAA will be critical to achieving gigabit LTE speeds, because they don't have enough contiguous licensed spectrum to achieve those speeds.
+
+Wireless carriers hate referring to these channels as Wi-Fi spectrum, because it implies that Wi-Fi has preferred usage of the 5GHz band when it's actually open to everyone. But Wi-Fi is the predominant use for it right now.
+
+LAA is only a solution for dense urban areas, though. This cell site has a coverage diameter of about four blocks (a bit over 1,000 feet), which is considered pretty good for LAA. That's a little better than what the coverage probably would be if the site was sending down 5GHz Wi-Fi, and it's a little better than New York's LinkNYC public Wi-Fi posts.
+
+With the launch of Verizon’s new mobile 5G network in Chicago and Minneapolis, we rushed to Chicago to test the next generation data network that will soon take the world by storm. We dragged ourselves on the streets looking for a Moto Z3 and then resorted to the limited spaces where a 5G signal was being broadcast.
+
+8th April: The 5G network appears to be progressing, as our latest test downloading a 595MB movie from Netflix managed to complete in less than 3 minutes. However, there was fluctuating speed through the whole download and 3-6 MB/s speed was observed most of the time. 
+
+7th April:  An unstable 5G signal was picked up in an apartment building in the West Loop while near the window and managed to reach a speed test of 28.3Mbps only.
+
+6th April:  Inquisitive about switching between 5G and 4G LTE in some areas, we carried a speed test in the West Loop. However if  switching was simply a matter of the network being unused, then starting a download or network speed test should have stopped the behavior. As soon as we start a speed test, the quick switching continued, and the speed dipped to 19Mbps. We then started a Netflix movie download that mustered 2 to 3MB/s, but the switching continued, with connectivity never locking into 5G. 
+
+8th April: Checking to make sure Netflix and the Play Store weren’t hampering speed, we connected to Wi-Fi and retried the downloads. The movie downloaded at close to 20MB/s and the game downloaded at about 13MB/s, surmounting what we could get on our 5G connection.
+
+7th April: After another 5G field tour,  we found a steady signal at the base of a building that seemed like it would have actually blocked signal. Few speed tests surpassed 400Mbps affirming we had a real 5G connection but a check with a single data stream showed only 17.3Mbps downstream. We attempted to download another movie on Netflix and a game on the Play Store while conducting multiple tests , but neither managed to download much faster than 1MB/s, whereas a 400Mbps connection should offer up to 50MB/s download speeds.
+
+6th April Further into West Loop, found a semi-stable 5G signal and ran a series of speed tests, getting 292Mbps,  113Mbps, 65.5Mbps, and 240Mbps.  No correspondence was found between 5G signal strength and speeds.
+
+5th April: The 4G and 5G  switched back and forth as we walked into The West Loop on a street. Ran a speed test while the network was toggling and got 47.4Mbps downstream.
+
+4th April: Left the West Loop after a day generally spent without 5G. The millimeter wave technology used is quite reliant on line of sight, thus difficult  to find, but we’ll keep trying.
+
+2nd April: We darted outside into the rain to see how long it’d take to download The Raid Redemption at 446MB on the 5G network but we ceased after 2 minutes and 30 seconds as we netted only 44MB. A quick speed test showed the minimum speeds of 59.9Mbps, we’d seen all day. 
+
+2nd April: Was unable to get 5G while sitting next to a window in a grocery store on the same corner.
+
+2nd April: Couldn’t get 5G signal indoors on this cold and rainy day. We had to go outside and found 5G signal at a corner close to The Loop. Ran a speed test that hit 448Mbps downstream with a 19ms ping time.
+
+We literally assembled together the world’s first 5G phone when we slapped the newly-launched 5G Moto Mod onto the back of an existing 4G phone.
+
+And it is indeed faster, according to our on-the-ground 5G tests using the Moto Z3, last year’s 4G LTE phone that can be upgraded to 5G care of the new 5G add-on. Yes! 5G service is here, and it’s coming together in bits and pieces.
+
+The 5G Mod was available at only one Chicago store on launch day and it was quicker than predicted. Motorola and Verizon plunged earlier than their original April 11 launch to become the first to 5G phone manufacturer and carrier, overtaking Samsung’s scheduled April 5 launch in Korea. 
+
+Expressing his thoughts on early launch, Verizon Consumer Group President, Ronan Dunne said that Verizon is always going to be first, making it clear why the company had switched its launch to just days before Samsung’s S10 5G launch in Korea.
+
+The network is only launched in Chicago and
+Minneapolis and yet the availability is bounded in each city as only few wards
+of both the cities are covered in 5G network. It seems that Verizon is still
+far away from an extensive launch and surprisingly it has not released any
+coverage map for customers to see. 
+
+These are dense areas of Chicago, including
+Magnificent Mile (specifically the Verizon store), Gold Coast, Old Town, River
+North, and portions of South Loop and West Loop. Minneapolis’ 5G coverage areas
+are in Downtown West, Downtown East, Elliot Park, and the Mall of America’s
+Verizon Store.
+
+Aside from the hands-on in the Magnificent
+Mile Verizon Store where the launch event took place, we knew getting to
+experience 5G in the wild might take a bit of work.
+
+Now coming to the total damage done- we needed
+both the Moto Z3, the 5G Moto Mod, an unlimited data plan from Verizon, and we
+had to pay a special $10 5G service fee (at present, the $10 fee is waived) on
+top of the data plan to access the 5G network. In the end, the hardware cost us
+$749 at the store (without opting for a contract where there are some
+discounts), and service will cost about $100 a month.
+
+In the Verizon Store where the launch event
+took place, there was a 5G node set up at the front. And, with a short distance
+between the Moto Z3 and the node, with line of sight, the device managed to hit
+651Mbps downstream. On the contrary, a 
+test later on the 4G network hit 213Mbps downstream. Meanwhile, upstream
+data actually only uses 4G, so there’s no speed boost for that.
+
+To further probe the connectivity, we moved to
+Play Store to download the hefty 1.81GB PUBG Mobile game. On the 5G network,
+the download took just shy of 4 minutes and 30 seconds. Repeating the download
+on the 4G network, the download took 6 minutes and 8 seconds. 
+
+So, while the 5G network surely is ahead of
+the two, it’s not by an order of magnitude.
+
+Over the course of our initial hands-on, we
+seriously questioned Verizon’s 5G network’s reliability. 
+
+The Verizon Store was scarcely bigger than 30 feet across and 100 feet back, with a 5G node in the front of the building. The reception was erratic toward the back, and would even drop out near the front. There were several episodes of switching from 5G to 4G LTE as we moved around and we had to check whether we were consistent with the 5G connection all way through.
+
+As of Moto Z3, it is a simple phone lacking
+any flagship feature but yet a strong phone at a bargain price. It is a trump
+card for Verizon to reach a wider audience through 5G at a low cost only by
+buying the Z3 and a 5G Moto Mod. However it has to still prove itself in
+performance with the network.
+
+ICT (Information Communications Technology) has made a significant progress in these last 10 years.  10 years is the usual time it takes for developing a new wireless technology, whose whole life cycle is around 30 years, 10 of development and 20 in operation.
+
+In terms of processing power 10 years means a 64 times increase in capacity. Taking into account that a wireless generation keeps evolving for at least ten more years (till it becomes obsolete by the advance of the new one, we have an evolution roadmap for 4G till 2023) this means that the processing power, in the maturity phase, for 5G devices will be 8,000 time bigger than the one available in 4G devices when 4G hit the market (it might be slightly less than 8,000 times given the slow down of the Moore’s law, but still quite an increase).
+
+The huge processing power that will be available at the terminal makes it possible to use several bands, from the 700MHz (freed by television broadcast as it has shifted to digital) up to 95GHz and beyond, managing ten and more spectral bands. Here two observations are in order.
+
+When people talk about increased spectral efficiency in 5G they,well, … cheat! True, we have demonstrators that show an incredible spectral efficiency, current record, I believe, is 145.6 b/s/Hz (with 256 QAM), a miracle result given that the usual spectral efficiency is around 2.5 b/s/Hz.
+
+How is this miracle possible, since it is well beyond the Shannon limit? Cheating, that’s it. The communications takes place using several antennas in parallel, 128 in this case. In this way rather than using a single communication “channel” we use many of them (MIMO: Multiple Input Multiple Output) and the array of antennas coupled with a software that detects and decodes the signal allows the resolution of the interference resulting from multiple channels.
+This increased efficiency, hence, is not a 5G property, it is already being used today in WiFi communications (two antennas are normally used) and in the 4G.
+
+The usage of frequencies above 5GHz is critical from the point of view of propagation (easy to imagine how much more critical it would be the usage of frequencies above 50GHz!). The solution is to adopt smaller cells where propagation is less of a concern. Hence, the use of higher frequencies in 5G will multiply the available bandwidth because:
+
+Tags 5G Dynamic Spectrum Management MIMO Moore's Law Shannon Limit
+
+Home | Contact & Support |  Accessibility | Nondiscrimination Policy | Privacy & Opting Out of Cookies
+© Copyright 2019 IEEE – All rights reserved. Use of this website signifies your agreement to the IEEE Terms and Conditions.
+A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+The industry is flooded with a lot of “5G will save the planet” without doing the homework to understand what is going on. It is shocking to see disinformation statements that “5G is expected to slash data transmission delays from about 30 milliseconds to less than one.” Yes! 5G defines the law of physics! 5G will now allow you to download from San Francisco to Singapore across the Pacific ocean in 1 millisecond!
+
+That is an extreme statement to get people to wake up to the realities of the hype. Before I continue, please note that I’m a huge advocate for the evolution of our mobile infrastructure. We’re moving to a world where everything and everyone is “untethered.” But, with +30 years of designing, building, deploying, and operating networks, I understand the hard realities of expectations matching realities. Many of the people who are talking about the benefits of 5G have never done the hard work of deploying 3G or 4G networks. They don’t understand the complexities of RF planning. They have not been on drive test and network optimization exercise working against the clock to get a section of the city ready for service. 5G is going to give the industry options, but it is not a “plug & play” technology. It is not a technology that is going to be deployed everywhere. It is not a technology that is going to save telecommunications companies. The reality is that it will be another evolution, another tool, and an important part of connecting people and things.
+
+Let us start the 5G reality check by looking at “1ms latency.” Do a search of the Internet for new articles with the phrases “5G” and “1 millisecond latency.” You will have a whole range of articles advocating the “latency benefit of 5G.” These authors buy into the vendor hype of “5G improves latency” without digging into where the latency is improved. What both are missing which part of latency is being improved. To help people understand, we’ll walk through a simple illustration of where we see potential 4G/5G latency improvements.
+
+We can break a 4G (and 5G) network into three simple elements of latency:
+
+Air Latency. This is the latency between the user device and the cell tower. For a 4G network, the latency added to data download would be a variable between 10 ms and higher. The variables will depend on the signal strength, the number of devices in the cell sector, the distance, the noise, and many other factors. THESE FACTORS DO NOT GO AWAY WITH 5G!
+
+5G Reality Check – in a 5G network, the aspirations are to have the air latency down to 1ms – 5ms. This is where you get the quotes that “5G is expected to slash data transmission delays from about 30 milliseconds to less than one.” First, note that this is one element to the total latency between the content (a web page) and the mobile device. 5G is not going to allow you to download www.senki.org in 1 millisecond. We still have a lot more latency variables to deal with.
+
+End-to-End Mobile Latency. This is the total latency between the RF unit (eNodeB) and the gateway to the Internet. This includes the wide area network that connects all the cell towers to the core of the network (the Radio Access Network – RAN), all the routers and switches in that network, all the elements in the core data centers (the Enhanced Packet Core – EPC), and then all the elements in the gateway to the Internet. That final “gateway” will include things like the Carrier Grade Network Address Translation (CGNAT), security firewalls, deep packet inspection, and other elements. This latency is also a variable between 30ms and ~100ms (or more). The variable is from the number of network devices, the distances of the RAN’s network, the load of the network (more congestion means deeper queue resulting in more latency/jitter), the load on each element in the network (overloaded elements in the EPC), and the activity of the users. Again, NONE OF THESE VARIABLES DO NOT GO AWAY WITH 5G! If anything, more variables will be added as Carriers add the 5G core, slicing, and other complexity to the network.
+
+5G Reality check. The aspirations for 5G is to have the mobile end-to-end in the 5ms range. That is going to be a challenge with the way networks are built and managed today. There are ways re-architect a 4G/5G network to dramatically cut down the latency. Note the term …. REARCHITECT. This engineering effort cost time and money. That means each Carrier will be mindfully reviewing the business case for 5G before rearchitecting the network. In the meantime, they will look for other options to cut down on the end-to-end latency.
+
+End-to-End Internet Latency. This how fast it takes to download a website to your phone. This is where the major confusing comes in with the benefits of 5G. Internet latency from the Mobile Carrier to the downloaded website is outside of the control of 5G. There are things the Mobile Operator can do to reduce the end-to-end Internet Latency. They can partner with Edge-Compute companies like Akamai Technologies and put these Edge Compute systems integrated with the core of their network. They can peer at Internet Exchange Points (IXPs) and peer with as many Operators/ISPs as possible. They can partner with the Content and Cloud Operators – peering, putting in private network interconnects (PNIs), and other synergies. These are all factors Mobile Operators are investing in with 4G network. Once again THESE VARIABLES WILL STILL APPLY WITH 5G!
+
+The articles in the press are leading people to think there is some sort of magic technology wand that will be waved and “5G will be wonderful.” The 5G realities are different. The benefits of 5G are going to be huge, but gaining those benefits require diligent engineering. Network Architect will rethink how we build the RAN, peering at more IXPs. Radio planning architects to be creative in the new use of “5G New Radio.” Facilities engineers will be doing the hard work to find space for new towers, mini-datacenters (for the cRAN and vRAN equipment), and other equipment. EPC Core architects in the Mobile Operators will be re-tooling for a world of virtualization with SDN, NFV, and other ways to save cost, power, cooling, and (most important) space.
+
+The 5G evolution is not “magic.” We’re not going to get “5G 1 millisecond latency” by waving some special vendor wand. We’ll get there through hard engineering, architecture, planning, and tight collaboration with peers throughout the Internet.
+
+So 5G should deliver significantly increased operational performance (e.g. increased spectral efficiency, higher data rates, low latency), as well as superior user experience (near to fixed network but offering full mobility and coverage). 5G needs to cater for massive deployment of Internet of Things, while still offering acceptable levels of energy consumption, equipment cost and network deployment and operation cost. It needs to support a wide variety of applications and services.
+
+5G offers network operators the potential to offer new services to new categories of users.
+
+In connection with RAN #69 in Sep. 2015, 3GPP held a workshop in Phoenix, USA in order to inform 3GPP about the ITU-R IMT-2020 plans and to share the visions and priorities of the involved companies regarding the next generation radio technology/ies. The chairman's summary (RWS-150073) formulated 3 next steps:
+
+At RAN #71 in March 2016, 3GPP started a Rel-14 study item (FS_NR_newRAT, RP-170379) "Study on New Radio (NR) Access Technology" with the goal to identify and develop the technology components to meet the broad range of use cases (including enhanced mobile broadband, massive MTC, critical MTC) and the additional requirements defined in 3GPP TR 38.913. This study completed at RAN #75 in March 17 with the Rel-14 3GPP TR 38.912 which is a collection of features for the new radio access technologies together with the studies of their feasibility and their capabilities.
+
+Note: Originally all other architecture options were supposed to be completed in this regular freeze phase as well. However, due to the extremely challenging time plan apart from option 2 only architecture option 5 (an LTE base station can be connected to a 5GC) was completed in this phase as well.
+
+As LTE-Advanced can fulfill parts of the IMT-2020 requirements for certain use cases the 3GPP input (called "5G") to IMT-2020 will have 2 submissions:
+
+Note: The characteristics templates give a good overview about the considered technology.
+
+The Rel-16 ASN.1 freeze is planned for March 2020. Like with GERAN, UMTS and LTE in the past, 5G will be further evolved in the future to address the industry and customer demands.
+
+A list of all 5G related specs (incl. core network and system aspects) is provided in 3GPP TR 21.205 or use this URL on the 3GPP website.
+
+System Architecture for the 5G system (stage 2): 3GPP TS 23.501.
+
+Procedures for the 5G System (stage 2): 3GPP TS 23.502.
+
+ETSI has a number of component technologies which will be integrated into future 5G systems: Network Functions Virtualization (NFV), Multi-access Edge Computing (MEC), Millimetre Wave Transmission (mWT) and Next Generation Protocols (NGP).
+
+Verizon’s 5G Ultra Wideband network is the first commercial 5G network in the world that works with a 5G smartphone.
+
+General availability of the 5G moto mod starts today.
+
+Learn more about 5G visit verizonwireless.com/5g
+
+NEW YORK – Today, Verizon officially turned on its 5G Ultra Wideband network in select areas of Minneapolis and Chicago a week ahead of schedule. For the first time ever, customers can access a commercial 5G network with the world’s first commercially available 5G-enabled smartphone*, the moto z3 combined with 5G moto mod. Customers using Verizon’s 5G Ultra Wideband network in Chicago or Minneapolis could see speeds of up to 1 Gbps.
+
+“Verizon customers will be the first in the world to have the power of 5G in their hands," said Hans Vestberg, Verizon’s chairman and chief executive officer. “This is the latest in our string of 5G firsts. Verizon launched the first commercial broadband 5G service last October, Verizon 5G Home, and now we’re lighting up our 5G Ultra Wideband network in Chicago and Minneapolis, providing the world’s first commercial 5G mobile service with a 5G-enabled smartphone.”
+
+Starting today, consumers and businesses have a 5G network and a 5G-enabled smartphone that makes real-time a reality. Verizon’s 5G Ultra Wideband technology uses the global standard and new device hardware to deliver advanced capabilities to customers in real-time. While select areas of Chicago and Minneapolis will be the first to experience Verizon’s 5G Ultra Wideband mobility service, Verizon announced plans in February to launch its 5G service in more than 30 U.S. cities in 2019.
+
+Early customers in Chicago and Minneapolis should expect typical download speeds of 450 Mbps, with peak speeds of nearly 1 Gbps, and latency less than 30 milliseconds. 5G is a new and rapidly evolving technology and Verizon expects regular improvement in 5G Ultra Wideband speed, latency and overall network performance as Verizon engineers, working with a number of technology partners, continue to upgrade the network. Customers can expect to see regular software updates pushed to their devices and see network advancements throughout the rest of the year.
+
+In Chicago, 5G coverage is concentrated in areas of the West Loop and the South Loop, around landmarks like Union Station, Willis Tower, The Art Institute of Chicago, Millennium Park and The Chicago Theatre. Customers also have 5G Ultra Wideband service in the Verizon store on The Magnificent Mile and throughout The Gold Coast, Old Town and River North.
+
+In Minneapolis, service is concentrated in the Downtown area, including Downtown West and Downtown East, as well as inside and around U.S. Bank Stadium, the site of this weekend’s NCAA men’s basketball Final Four. Verizon 5G Ultra Wideband service is also available around landmarks like the Minneapolis Convention Center, the Minneapolis Central Library, the Mill City Museum, Target Center and First Avenue venues, The Commons, areas of Elliot Park and in the Verizon store in The Mall of America.
+
+When customers move outside Verizon’s 5G Ultra Wideband coverage area, the 5G moto mod hands off the signal to Verizon’s 4G LTE network, the nation’s best and most reliable 4G LTE network.
+
+Verizon is the leader in 5G and the moto z3 with 5G moto mod is the gateway to a 5G future. Customers simply snap the 5G moto mod to the back of a compatible Motorola z3 smartphone and experience the power of 5G for just $199.99 ($349.99 retail). Verizon postpaid customers with any Verizon unlimited plan, including Go Unlimited, Beyond Unlimited or Above Unlimited plan, get unlimited 5G data for an additional $10 per month (with the first three months of 5G data for free).
+
+To buy a 5G moto mod, customers must either have an active moto z3 on their account or purchase a moto z3 at the same time as the 5G moto mod. Customers can also get a moto z3 for $10 a month for 24 months on Verizon’s device payment plan ($480 retail; 0% APR) if they add a new line or upgrade online**.
+
+To order the 5G moto mod, visit verizonwireless.com/5g/phones/
+
+To learn more about Verizon’s 5G technology, visit verizonwireless.com/5g. For more information about Verizon’s 5G Ultra Wideband coverage area, visit vzw.com/support/5g-moto-mod-faqs.
+
+*Moto z3 sold separately. Add 5G moto mod for $10/mo with Go, Beyond and Above unlimited plan. 5G Ultra Wideband available only in parts of select markets.
+
+Preorders for the Verizon-exclusive 5G moto mod – the first 5G-upgradeable smartphone – begin March 14, with a $50 special offer.
+
+Verizon’s Ultra Wideband 5G network is the only 5G network that combines massive spectrum holdings, end-to-end fiber resources, and a strong small cell network
+
+Verizon is a global leader delivering innovative communications and technology solutions that improve the way our customers live, work and play.
+
+A huge step forward towards actual 5G networks
+
+It’s been in development for awhile, but the 3GPP — the organization that governs cellular standards — has officially signed off on the first specification for 5G (specifically, the 5G NR standard) at a meeting in Lisbon, Portugal, according to a report from Fierce Wireless. 
+
+Having a formal agreed upon standard of what 5G networks will actually look like is a huge step forward for getting real, commercial 5G networks up and running, as it gives companies a hard specification for what they need to be building. 
+
+HOT OFF THE PRESS!Just a few minutes ago, the first spec for 5G has been declared complete by the 3GPP!Congratulations to all the brilliant people, from Qualcomm and many other companies around the globe, who worked so hard to make this happen on an accelerated timeline! pic.twitter.com/9Eq3OVAWFn
+
+As expected, the finished 5G specification covers a wide range of spectrum, ranging from the 600 and 700 MHz bands to the millimeter wave portion of the spectrum at 50 GHz. We’ll know more when the finalized standards are published later this week as to the exact details for 5G.
+
+Still, having a formal goalpost to work towards is a hugely important part of the process, especially with companies like T-Mobile and Verizon already promising 5G networks to start rolling out in 2018 and 2019. And at the very least, the 5G NR standard is significantly more progress than just having a logo. 
+
+It’s been in development for awhile, but the 3GPP — the organization that governs cellular standards — has officially signed off on the first specification for 5G (specifically, the 5G NR standard) at a meeting in Lisbon, Portugal, according to a report from Fierce Wireless. 
+
+Having a formal agreed upon standard of what 5G networks will actually look like is a huge step forward for getting real, commercial 5G networks up and running, as it gives companies a hard specification for what they need to be building. 
+
+HOT OFF THE PRESS!Just a few minutes ago, the first spec for 5G has been declared complete by the 3GPP!Congratulations to all the brilliant people, from Qualcomm and many other companies around the globe, who worked so hard to make this happen on an accelerated timeline! pic.twitter.com/9Eq3OVAWFn
+
+As expected, the finished 5G specification covers a wide range of spectrum, ranging from the 600 and 700 MHz bands to the millimeter wave portion of the spectrum at 50 GHz. We’ll know more when the finalized standards are published later this week as to the exact details for 5G.
+
+Still, having a formal goalpost to work towards is a hugely important part of the process, especially with companies like T-Mobile and Verizon already promising 5G networks to start rolling out in 2018 and 2019. And at the very least, the 5G NR standard is significantly more progress than just having a logo. 
+
+Balazs Bertenyi, Chairman of 3GPP RAN, has described this Workshop on IMT2020 evaluation as a vital step in the evaluation process. He said: “3GPP has been working extremely hard to bring 5G NR standards to the industry in an accelerated manner, in Release 15. 3GPP has now approved the work program for Release 16 - containing a host of new and enhanced functionalities for 5G NR. The target completion for Release 16 is December 2019. The 3GPP submission to IMT2020 will contain both Release 15 and Release 16 functionality.”
+
